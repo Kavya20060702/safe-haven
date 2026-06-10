@@ -120,6 +120,7 @@ Safe Haven
 git clone https://github.com/your-username/Safe-Haven.git
 cd Safe-Haven
 npm install
+npm install -D @types/react @types/react-dom
 ```
 
 ### Environment Variables
@@ -136,13 +137,11 @@ APP_URL=http://localhost:3000
 ```bash
 npm run dev
 ```
-
 Open:
 
 ```text
 http://localhost:3000
 ```
-
 ---
 
 ## 🌟 Future Enhancements
