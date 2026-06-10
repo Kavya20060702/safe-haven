@@ -1,0 +1,6 @@
+{
+  "name": "Safe Haven",
+  "description": "An empathetic digital sanctuary designed for B.Tech students facing exam panic, backlogs, and academic burnout, offering companions, stress releases, and wellness tools.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
