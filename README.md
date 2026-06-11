@@ -42,7 +42,8 @@
   * Interactive companion selection system.
 
 ---
-
+##**Working Prototype Preview**
+https://github.com/user-attachments/assets/6768be33-4c7d-4b7a-b270-808983bbcc9f
 ## 🛠️ Tech Stack
 
 ### Frontend
