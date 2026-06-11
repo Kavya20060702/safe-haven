@@ -41,6 +41,11 @@
   * Full-screen animated introduction before entering the platform.
   * Interactive companion selection system.
 
+## Working Prototype
+<video src="https://github.com/user-attachments/assets/c7ce45e5-0c55-41aa-b844-67628fc56209" controls width="100%">
+  Your browser does not support the video tag.
+</video>
+
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -64,6 +69,7 @@
 * Emotion Detection System
 
 ---
+
 
 ## 🎯 Problem Statement
 
