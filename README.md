@@ -41,10 +41,6 @@
   * Full-screen animated introduction before entering the platform.
   * Interactive companion selection system.
 
----
-##**Working Prototype Preview**
-[https://github.com/user-attachments/assets/6768be33-4c7d-4b7a-b270-808983bbcc9f](https://github.com/user-attachments/assets/c7ce45e5-0c55-41aa-b844-67628fc56209)
----
 ## 🛠️ Tech Stack
 
 ### Frontend
